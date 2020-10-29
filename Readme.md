@@ -1,6 +1,6 @@
 # NLP Questions from scratch
 
-Both questions can be found here: [Questions.pdf]()
+Both questions can be found here: [NLP-Programs.pdf](https://github.com/Kartikaggarwal98/Assignment/blob/master/NLP-Programs.pdf)
 
 Q1: Markov Model to predict probability of next word based on corpus. [Open in nbviewer](https://nbviewer.jupyter.org/github/Kartikaggarwal98/Assignment/blob/master/Q1.ipynb)
 
